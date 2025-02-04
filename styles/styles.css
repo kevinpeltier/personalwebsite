@@ -382,7 +382,7 @@ body {
 
     .navigation {
         height: 5rem;
-        width: 100svh;
+        width: 100%;
         position: fixed;
         bottom: 0;
         transition: none;
