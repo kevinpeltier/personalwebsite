@@ -383,7 +383,6 @@ body {
     .navigation {
         height: 5rem;
         width: 100svh;
-        background-color: #1E1E1E;
         position: fixed;
         bottom: 0;
         transition: none;
